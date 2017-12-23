@@ -1,0 +1,19 @@
+site_name: "Ping Attention Marketplace"
+site_description: "Documentation for Ping Attention Marketplace"
+site_author: "Hwi Yong Song"
+site_url: "https://www.pingtoken.me"
+
+theme:
+  name: "material"
+  language: "en"
+  palette:
+    primary: "deep purple"
+    accent: "deep purple"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  logo:
+    icon: "layers"
+    
+docs_dir: "pages"
+site_dir: "docs"

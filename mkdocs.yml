@@ -1,7 +1,18 @@
 site_name: "Ping Attention Marketplace"
-site_description: "Documentation for Ping Attention Marketplace"
+site_description: "Whitepaper for Ping Attention Marketplace"
 site_author: "Hwi Yong Song"
 site_url: "https://www.pingtoken.me"
+
+pages:
+  - Introducing Decentralized Attention Marketplace: index.md
+  - Ping Protocol Model: protocol.md
+  - Token Mechanism: token.md
+  - Business Model: use_cases.md
+  - Current Progress and Future Roadmap: roadmap.md
+  - Meet the Team: team.md
+  - About:
+    - Reviewers: about/reviewers.md
+    - License: about/license.md
 
 theme:
   name: "material"

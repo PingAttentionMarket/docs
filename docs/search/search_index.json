@@ -2,23 +2,28 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "text": "Whitepaper: Ping Attention Marketplace\n\n\nA decentralized personal attention marketplace on the Ethereum blockchain.\n\n\n\nWhere to start?\n\n\n\n\nIntroducing Decentralized Attention Marketplace\n describes attention markets, its current problems, and our proposed solution.\n\n\nPing Protocol Model\n provides an overview and design of the platform for a decentralized attention marketplace.\n\n\nToken Mechanism\n outlines the Ping token model and its utilities.\n\n\nBusiness Model\n describes our business plan, competitive analysis, and various use cases.\n\n\nCurrent Progress and Future Roadmap\n lists our completed, ongoing, and future milestones.\n\n\nMeet the Team\n presents our team, advisors, and supporters.\n\n\n\n\nAbout this document\n\n\nWe are regularly updating this document as our project matures and evolves. Feedback is very much appreciated.\n\n\nSee the issues for topics that need to be covered or updated. If you have an idea you would like to discuss, please chat with us in \nGitter\n.\n\n\nIf you've written an article or blog post, please contact us at \ninfo@pingtoken.com\n.",
+            "title": "Home"
+        },
+        {
+            "location": "/#whitepaper-ping-attention-marketplace",
+            "text": "",
+            "title": "Whitepaper: Ping Attention Marketplace"
+        },
+        {
+            "location": "/#where-to-start",
+            "text": "Introducing Decentralized Attention Marketplace  describes attention markets, its current problems, and our proposed solution.  Ping Protocol Model  provides an overview and design of the platform for a decentralized attention marketplace.  Token Mechanism  outlines the Ping token model and its utilities.  Business Model  describes our business plan, competitive analysis, and various use cases.  Current Progress and Future Roadmap  lists our completed, ongoing, and future milestones.  Meet the Team  presents our team, advisors, and supporters.",
+            "title": "Where to start?"
+        },
+        {
+            "location": "/#about-this-document",
+            "text": "We are regularly updating this document as our project matures and evolves. Feedback is very much appreciated.  See the issues for topics that need to be covered or updated. If you have an idea you would like to discuss, please chat with us in  Gitter .  If you've written an article or blog post, please contact us at  info@pingtoken.com .",
+            "title": "About this document"
+        },
+        {
+            "location": "/introduction/",
+            "text": "",
             "title": "Introducing Decentralized Attention Marketplace"
-        },
-        {
-            "location": "/#welcome-to-mkdocs",
-            "text": "For full documentation visit  mkdocs.org .",
-            "title": "Welcome to MkDocs"
-        },
-        {
-            "location": "/#commands",
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
-            "title": "Commands"
-        },
-        {
-            "location": "/#project-layout",
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
-            "title": "Project layout"
         },
         {
             "location": "/protocol/",
@@ -31,7 +36,7 @@
             "title": "Token Mechanism"
         },
         {
-            "location": "/use_cases/",
+            "location": "/business_model/",
             "text": "",
             "title": "Business Model"
         },

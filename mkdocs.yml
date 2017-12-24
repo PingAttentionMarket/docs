@@ -4,10 +4,11 @@ site_author: "Hwi Yong Song"
 site_url: "https://www.pingtoken.me"
 
 pages:
-  - Introducing Decentralized Attention Marketplace: index.md
+  - Home: index.md
+  - Introducing Decentralized Attention Marketplace: introduction.md
   - Ping Protocol Model: protocol.md
   - Token Mechanism: token.md
-  - Business Model: use_cases.md
+  - Business Model: business_model.md
   - Current Progress and Future Roadmap: roadmap.md
   - Meet the Team: team.md
   - About:

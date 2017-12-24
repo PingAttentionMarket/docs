@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "Whitepaper: Ping Attention Marketplace\n\n\nA decentralized personal attention marketplace on the Ethereum blockchain.\n\n\n\nWhere to start?\n\n\n\n\nIntroducing Decentralized Attention Marketplace\n describes attention markets, its current problems, and our proposed solution.\n\n\nPing Protocol Model\n provides an overview and design of the platform for a decentralized attention marketplace.\n\n\nToken Mechanism\n outlines the Ping token model and its utilities.\n\n\nBusiness Model\n describes our business plan, competitive analysis, and various use cases.\n\n\nCurrent Progress and Future Roadmap\n lists our completed, ongoing, and future milestones.\n\n\nMeet the Team\n presents our team, advisors, and supporters.\n\n\n\n\nAbout this document\n\n\nWe are regularly updating this document as our project matures and evolves. Feedback is very much appreciated.\n\n\nSee the issues for topics that need to be covered or updated. If you have an idea you would like to discuss, please chat with us in \nGitter\n.\n\n\nIf you've written an article or blog post, please contact us at \ninfo@pingtoken.com\n.",
+            "text": "Whitepaper: Ping Attention Marketplace\n\n\nA decentralized personal attention marketplace on the Ethereum blockchain.\n\n\n\nWhere to start?\n\n\n\n\nIntroducing Decentralized Attention Marketplace\n describes attention markets, its current problems, and our proposed solution.\n\n\nPing Protocol\n provides an overview and design of the platform for a decentralized attention marketplace.\n\n\nToken Mechanism\n outlines the Ping token model and its utilities.\n\n\nBusiness Model\n describes our business plan, competitive analysis, and various use cases.\n\n\nCurrent Progress and Future Roadmap\n lists our completed, ongoing, and future milestones.\n\n\nMeet the Team\n presents our team, advisors, and supporters.\n\n\n\n\nAbout this document\n\n\nWe are regularly updating this document as our project matures and evolves. Feedback is very much appreciated.\n\n\nSee the issues for topics that need to be covered or updated. If you have an idea you would like to discuss, please chat with us in \nGitter\n.\n\n\nIf you've written an article or blog post, please contact us at \ninfo@pingtoken.com\n.",
             "title": "Home"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "location": "/#where-to-start",
-            "text": "Introducing Decentralized Attention Marketplace  describes attention markets, its current problems, and our proposed solution.  Ping Protocol Model  provides an overview and design of the platform for a decentralized attention marketplace.  Token Mechanism  outlines the Ping token model and its utilities.  Business Model  describes our business plan, competitive analysis, and various use cases.  Current Progress and Future Roadmap  lists our completed, ongoing, and future milestones.  Meet the Team  presents our team, advisors, and supporters.",
+            "text": "Introducing Decentralized Attention Marketplace  describes attention markets, its current problems, and our proposed solution.  Ping Protocol  provides an overview and design of the platform for a decentralized attention marketplace.  Token Mechanism  outlines the Ping token model and its utilities.  Business Model  describes our business plan, competitive analysis, and various use cases.  Current Progress and Future Roadmap  lists our completed, ongoing, and future milestones.  Meet the Team  presents our team, advisors, and supporters.",
             "title": "Where to start?"
         },
         {
@@ -22,13 +22,23 @@
         },
         {
             "location": "/introduction/",
+            "text": "Introducing Decentralized Attention Marketplace",
+            "title": "Introducing Decentralized Attention Marketplace"
+        },
+        {
+            "location": "/introduction/#introducing-decentralized-attention-marketplace",
             "text": "",
             "title": "Introducing Decentralized Attention Marketplace"
         },
         {
             "location": "/protocol/",
+            "text": "Ping Protocol",
+            "title": "Ping Protocol"
+        },
+        {
+            "location": "/protocol/#ping-protocol",
             "text": "",
-            "title": "Ping Protocol Model"
+            "title": "Ping Protocol"
         },
         {
             "location": "/token/",

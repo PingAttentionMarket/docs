@@ -6,7 +6,7 @@ site_url: "https://www.pingtoken.me"
 pages:
   - Home: index.md
   - Introducing Decentralized Attention Marketplace: introduction.md
-  - Ping Protocol Model: protocol.md
+  - Ping Protocol: protocol.md
   - Token Mechanism: token.md
   - Business Model: business_model.md
   - Current Progress and Future Roadmap: roadmap.md

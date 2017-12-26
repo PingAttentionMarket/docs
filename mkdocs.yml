@@ -27,5 +27,8 @@ theme:
   logo:
     icon: "layers"
     
+extra_css:
+  - 'styles/styles.css'
+    
 docs_dir: "pages"
 site_dir: "docs"

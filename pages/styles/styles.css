@@ -1,0 +1,22 @@
+.md-typeset h3 {
+	font-weight: 600;
+	font-size: 1.8rem;
+}
+
+q {
+	color: #666;
+}
+
+.lead {
+	font-weight: 300;
+	font-size: 20px;
+}
+
+.thin {
+	font-weight: 300;
+}
+
+.todo {
+	font-weight: 500;
+	color: red;
+}
